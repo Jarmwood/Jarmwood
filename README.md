@@ -17,7 +17,7 @@ When i'm not elbows deep in code, you'll find me keeping up with the latest tech
 
 ### Stats
 <a href="https://github.com/Jarmwood/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Jarmwood&show_icons=true&theme=vue-dark&card_width=290" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Jarmwood&show_icons=true&theme=vue-dark&card_width=275" />
   <img height=180 align="center" src="https://github-contributor-stats.vercel.app/api?username=Jarmwood&limit=5&theme=vue-dark&combine_all_yearly_contributions=true&card_width=275" />
 </a>
 
