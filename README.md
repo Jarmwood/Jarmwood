@@ -10,8 +10,10 @@ I'm a creative Software engineer with a background of specializing in testing an
 ---
 
 ### Stats
-![JohnTay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jarmwood&show_icons=true&theme=vue-dark)
-![](https://github-contributor-stats.vercel.app/api?username=Jarmwood&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+<a href="https://github.com/Jarmwood/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jarmwood&show_icons=true&theme=vue-dark&card_width=500" />
+  <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=Jarmwood&limit=5&theme=vue-dark&combine_all_yearly_contributions=true&card_width=500" />
+</a>
 
 ### Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jarmwood&theme=radical&no-frame=true&no-bg=true&margin-w=4)
