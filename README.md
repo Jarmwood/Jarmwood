@@ -21,9 +21,6 @@ When i'm not elbows deep in code, you'll find me keeping up with the latest tech
   <img height=180 align="center" src="https://github-contributor-stats.vercel.app/api?username=Jarmwood&limit=5&theme=vue-dark&combine_all_yearly_contributions=true&card_width=275" />
 </a>
 
-### Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jarmwood&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&card_width=400)
