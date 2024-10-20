@@ -7,7 +7,7 @@ Tech enthusiast with a knack for solving complex problems and a love for all thi
 
 Currently I'm sharpening my skills in the realm of Cybersecurity, diving deep into the world of vulnerabilities, threats, and all the fun stuff that keeps us up at night. I'm set on combining my experience in Software development and my passion for securing the world. </b>
 
-When i'm not elbows deep in code, you'll find me keeping up with the latest technologies, security trends, and experimenting with new tech. Software Engineer and Cybersecurity by trade but lifelong learner by choice. If you need someone to lead, code or secure your systems(and laugh at your bad tech jokes) I'm your person!
+When i'm not elbows deep in code, you'll find me keeping up with the latest technologies, security trends, and experimenting with new tech. Software Engineer and Cybersecurity by trade but lifelong learner by choice.
                                                                                                                                                                                                                                                                                                                                                                                                                     
 
 ### 🧰 Languages and Tools
