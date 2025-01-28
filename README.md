@@ -1,13 +1,13 @@
 # :space_invader: Hi, I'm John'Tay!
-**`Digital Craftsman (Software Developer | Cybersecurity | Artist)`**
+**`Digital Craftsman (Software Engineer | Cybersecurity | Artist)`**
 
 ---
 
 Tech enthusiast with a knack for solving complex problems and a love for all things code. Over the past 6 years, I've navigated the fast-paced world of GovTech, leading a team of brilliant engineers and building software solutions that keep the wheels turning behind the scenes. After a successful stint as a Lead Software Engineer in Testing, I made the jump to development.(because who doesn't love writing the code and breaking it?) </b>
 
-Currently I'm sharpening my skills in the realm of Cybersecurity, diving deep into the world of vulnerabilities, threats, and all the fun stuff that keeps us up at night. I'm set on combining my experience in Software development and my passion for securing the world. </b>
+Currently I'm sharpening my skills in the realm of Cybersecurity, diving deep into the world of vulnerabilities, threats, and all the fun stuff that keeps us up at night. I'm set on combining my experience in Software development and cybersecurity to think outside the box and secure it. </b>
 
-When i'm not elbows deep in code, you'll find me keeping up with the latest technologies, security trends, and experimenting with new tech. Software Engineer and Cybersecurity by trade but lifelong learner by choice.
+When i'm not elbows deep in code, you'll find me keeping up with the latest technologies, researching security trends, and experimenting with new tech. Software Engineer and Cybersecurity by trade but lifelong learner by choice.
                                                                                                                                                                                                                                                                                                                                                                                                                     
 
 ### 🧰 Languages and Tools
